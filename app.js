@@ -19,6 +19,8 @@
 
 // -------------------
 
+// Example Favorites Arrays
+
 // let movies = ['Your Name', 'Airplane!', 'Naked Gun', 'Apocalyse Now', 'Scary Movie 3']
 
 // let songs = ['Concerto No. 1 in G Major', 'Symphony No. 5', 'Invention No. 4', 'Thriller', 'Alexander Hamilton']
@@ -27,8 +29,14 @@
 
 // let games = ['Yakuza 0', 'Divinity: Original Sin 2', 'Fall Guys', 'The Master Chief Collection', 'Stardew Valley']
 
-let alpha = ['a', 'b', 'c']
+// -------------------
 
-for (let i = 0; i < alpha.length; i++) {
-  console.log(alpha[i])
-}
+// Example For Loop
+
+// let alpha = ['a', 'b', 'c']
+
+// Index at i for iterating over array
+// for (let i = 0; i < alpha.length; i++) {
+//   console.log(alpha[i])
+// }
+
