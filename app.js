@@ -40,3 +40,8 @@
 //   console.log(alpha[i])
 // }
 
+// -------------------
+
+// Get random number
+
+// Math.floor(Math.random() * 10)
